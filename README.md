@@ -1,2 +1,0 @@
-# BurgerProject
-react_practice
