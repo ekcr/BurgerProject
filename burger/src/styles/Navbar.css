@@ -1,0 +1,26 @@
+.navbar{
+    background-color: red;
+    padding: 10px 20px;
+}
+  
+.navbar a{
+    color: white;
+    padding-right: 20px;
+    text-decoration: none;
+
+}
+.navbar a.active{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navbar_main{
+    align-items: center;
+    padding-left: 150px;
+    display: flex;
+}
+
+.navbar_link{
+    margin-left: auto;
+    margin-right: 50px;
+}
