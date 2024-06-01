@@ -1,6 +1,7 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom'
 import fiveGuysLogo from '../assets/fiveguys2.png'
+import "../styles/Cart.css"
 function Navbar() {
   return (
     <div className='navbar'>
